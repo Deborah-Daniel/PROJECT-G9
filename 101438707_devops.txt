@@ -1,5 +1,5 @@
 #COMP2156 Develops Course 
 
-COMP2156 course promotes code learning, editing.
-comp2156 course promotes collabrative work inwhich like minds come together to accomplish a task.
-comp2156 course promotes problem solving, fast thinking.
+1. Comp2156 develops course works with nano to perform text editing therby enhancing your skills.
+2.COMP2156 involves coursework that requires the use of Git Bash, strengthening familiarity with the Linux version of the command line (CMD) through daily tasks.
+3.Comp2156 develops course performing error fixes and finding solutions.
